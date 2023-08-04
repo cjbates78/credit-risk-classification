@@ -12,19 +12,19 @@ Results
 
 Machine Learning Model 1:
 
-	•	Accuracy is 99%
-	•	Precision for Healthy Loan is 1.00, High-risk loan is .87
-	•	Recall for Healthy Loan is 1.00, High-risk loan is .89
+•Accuracy is 99%
+•Precision for Healthy Loan is 1.00, High-risk loan is .87
+•Recall for Healthy Loan is 1.00, High-risk loan is .89
 
 Machine Learning Model 2:
 
-	•	Accuracy is 100%
-	•	Precision for Healthy Loan is 1.00, High-risk loan is .87
-	•	Recall for Healthy Loan is 1.00, High-risk loan is 1.00
+•Accuracy is 100%
+•Precision for Healthy Loan is 1.00, High-risk loan is .87
+•Recall for Healthy Loan is 1.00, High-risk loan is 1.00
 
  
  Summary
  
-	•	Logistic regression model with the oversampled data was better at making predictions
-	•	I think using the regression model with the oversampled data would be better to use in this case, because it is more accurate at predicting the 		high-risk loans, and those are the types  
+•Logistic regression model with the oversampled data was better at making predictions
+•I think using the regression model with the oversampled data would be better to use in this case, because it is more accurate at predicting the 		high-risk loans, and those are the types  
 
